@@ -18,11 +18,11 @@ I'm looking to collaborate on any games / mods, or something that requires model
 
 /<contact>
 You can contact me throught:
-Discord: Maslo#3091
-Guilded: Maslicko
-Mail: Kukurie@yandex.com
-Upload.systems - https://upload.systems/user/52729
-roblox: matej1181
+/Discord: Maslo#3091
+/Guilded: Maslicko
+/Mail: Kukurie@yandex.com
+/Upload.systems - https://upload.systems/user/52729
+/roblox: matej1181
 /</contact>
 
 /</introduction>
