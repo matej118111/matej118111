@@ -24,3 +24,12 @@ Mail: Kukurie@yandex.com
 </contact>
 
 </introduction>
+
+<examples>
+  Examples of my "work"
+  1. "FUN" animation - https://dark-web.site/pEJJByIZ
+  
+  
+  
+  
+  </examples>
