@@ -1,37 +1,37 @@
-<introduction>
+/<introduction>
 
-<ShortAboutMe>
+/<ShortAboutMe>
 Hello im @matej118111 and 1181 is my favorite number
 </ShortAboutMe>
 
-<skills>
+/<skills>
 I don't really have any good skills :D but i really like modelling in blender and coding websites sometimes
 </skills>
 
-<learning>
+/<learning>
 Im currently learning how to make models in blender cause they kinda suck now :/
 </learning>
 
-<LookingFor>
+/<LookingFor>
 I'm looking to collaborate on any games / mods, or something that requires models (note my models aren't the best thing ever + i don't like making textures)
-</LookingFor>
+/</LookingFor>
 
-<contact>
+/<contact>
 You can contact me throught:
 Discord: Maslo#3091
 Guilded: Maslicko
 Mail: Kukurie@yandex.com
 Upload.systems - https://upload.systems/user/52729
-  <h3>roblox: matej1181</h3>
-</contact>
+roblox: matej1181
+/</contact>
 
-</introduction>
+/</introduction>
 
-<examples>
+/<examples>
   Examples of my "work"
   1. "FUN" animation - https://dark-web.site/pEJJByIZ
   
   
   
   
-  </examples>
+  /</examples>
