@@ -30,7 +30,11 @@ You can contact me throught:
 /<examples>
   Examples of my "work"
   1. "FUN" animation - https://dark-web.site/pEJJByIZ
+  2. "Sussy baka" - https://sus.amogs.us/kMHZKKll
+  3. "The imposter" - https://sus.amogs.us/7lLlwCGj
+  4. Roblox lua simple code - https://code.didnt-ask.lol/p/6TBPOYd8cfLc
   
+  note: if you would like to see more examples of shitposting i do and my "work" look at my media tab in guilded
   
   
   
