@@ -34,6 +34,15 @@ You can contact me throught:
   3. "The imposter" - https://sus.amogs.us/7lLlwCGj
   4. Roblox lua simple code - https://code.didnt-ask.lol/p/6TBPOYd8cfLc
   
+  roblox models:
+  https://www.roblox.com/library/7114664200/Ek47-Epic-Gun-SpeedRun-in-blender-any
+1. https://www.roblox.com/library/7478813724/Sus
+2. https://www.roblox.com/library/7343435578/Minecraft-F-o-x
+3. https://www.roblox.com/library/7597684869/c4
+4. https://www.roblox.com/library/7539300681/ek-47-but-its-ak47
+5. https://www.roblox.com/catalog/7532486754/deez
+6. https://www.roblox.com/library/7531745810/Glock
+  
   note: if you would like to see more examples of shitposting i do and my "work" look at my media tab in guilded
   
   
