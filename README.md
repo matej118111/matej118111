@@ -43,7 +43,7 @@ You can contact me throught:
 6. https://www.roblox.com/library/7531745810/Glock
 7. https://www.roblox.com/library/7114664200/Ek47-Epic-Gun-SpeedRun-in-blender-any
   
-  note: if you would like to see more examples of shitposting i do and my "work" look at my media tab in guilded
+  note: if you would like to see more examples of shitposting i do and my "work" look at my media tab in guilded and if you don't want to leave github then checkout my collection of my models (https://github.com/matej118111/Models)
   
   
   
